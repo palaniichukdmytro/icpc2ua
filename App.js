@@ -5,7 +5,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.text}>ICPC2 UA</Text>
+        <Text style={styles.text}>Start here: ICPC2 UA</Text>
       </View>
     )
   }
